@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Dave Ahonen</title>
+<script src="app.js"></script>
 </head>
 <body>
 <p><center>This is an html website.</center></p>
