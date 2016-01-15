@@ -1,0 +1,9 @@
+img {
+	width:200px;
+	height:200px;
+}
+
+table, td {
+	border: 3px #70b8ff solid;
+	border-color:black
+}
